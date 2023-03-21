@@ -1,0 +1,22 @@
+h2 {
+    color:red;
+    font-size: 40px;
+    font-family:fantasy;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+img {
+    border-radius: 50%;
+}
+div.movie {
+    float: left;
+    margin: 2px;
+}
+
+div p {
+    text-align: center;
+    color:red;
+    font-family: fantasy;
+    text-shadow: 2px 2px 5px black;
+    font-size: 17px;
+}
