@@ -46,3 +46,7 @@ ul {
 li {
   float: left;
 }
+
+.blue-text {
+  color: blue;
+}
